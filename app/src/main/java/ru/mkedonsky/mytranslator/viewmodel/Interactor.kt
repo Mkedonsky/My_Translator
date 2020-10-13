@@ -1,4 +1,4 @@
-package ru.mkedonsky.mytranslator.presenter
+package ru.mkedonsky.mytranslator.viewmodel
 
 import io.reactivex.Observable
 
